@@ -1,5 +1,3 @@
-def add(a, b):
-    return a + b
-
-def test_add():
-    assert add(2, 3) == 5 
+a=10
+b=20
+print(a+b)
